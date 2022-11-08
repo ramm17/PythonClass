@@ -1,0 +1,10 @@
+git init 
+git add --a
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/ramm17/PythonClass.git
+
+
+git add *
+git commmit -m "Next change"
+git push -u origin master
